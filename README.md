@@ -1,4 +1,4 @@
-Certainly! Here is the revised document with the updated repository URL:
+
 
 # MERN Ecommerce
 
@@ -104,5 +104,9 @@ $ npm start
   "javascript.preferences.quoteStyle": "single"
 }
 ```
+Laptop & Tablet , Mobile screens
 
-Feel free to ask if you need further adjustments or additions!
+
+![Screenshot 2024-07-03 205218](https://github.com/abhishek-1010B/QuadB-Exam/assets/103412452/59f36d4d-c429-48c7-8817-1c4a38d29636)
+![Screenshot 2024-07-03 205451](https://github.com/abhishek-1010B/QuadB-Exam/assets/103412452/0e0596e3-6313-4408-9705-938bae680dea)
+![Screenshot 2024-07-03 205531](https://github.com/abhishek-1010B/QuadB-Exam/assets/103412452/1a030b02-4efc-457d-aa6d-7bc95c9af144)
